@@ -36,7 +36,7 @@ class Student
   def create
   end
 
-  
+
 
 
 end
